@@ -1,30 +1,9 @@
-# NOV-healthcare-equipment-assistant
+# NOV-healthcare-equipment-assistant -- final project swen90017/18
 
 ## Project Background
 Clients of the NDIS (and perhaps the NDIA) can have trouble choosing the equipment they need, which best matches their particular disability and which the service is willing to pay for or sufficiently subsidise.
 NOVIS manage these complications with a manual process which works well but is time-consuming for all concerned, and can occasionally misfire. So NOVIS are commissioning a software solution that involves multiple creative interfaces, tuned for accessibility, joined with a smart backend that integrates with multiple sources of relevant information. 
 The project will have a focus on the technologies required to integrate with SAP. 
-
-## Team Members
-| **Name**              | **Role**                  | **Contact**                         | Front-end/Back-end |
-| -----------           | -----------               | -----------                         | -----------           |
-| Luyun Li | Client Liaison / Scrum Master | Luyun.LI.1@student.unimelb.edu.au | Back-end |
-| Zongliang Han | Product Owner | zongliang.han@student.unimelb.edu.au | Back-end |
-| Zihao Wang | Backend Lead | zihao.wang17@student.unimelb.edu.au | Back-end |
-| Ning Yang     | Frontend Lead                 | ning.yang1@student.unimelb.edu.au    | Front-end          |
-| Shenyi Hu | Developer | shenyi.hu@student.unimelb.edu.au | Front-end |
-| Shuran Yang | Developer | shuran.yang3@student.unimelb.edu.au | Front-end |
-| Xinze Li | Developer | xinze.li5@student.unimelb.edu.au | Front-end |
-| Zixun Qiu | Developer | zixun.qiu@student.unimelb.edu.au | Front-end |
-| Chan Tang | Developer | chan.tang@student.unimelb.edu.au | Back-end |
-| Jiale Xu | Developer | jiale.xu1@student.unimelb.edu.au | Back-end |
-| Tingyu Wang | Developer | tingyu.wang2@student.unimelb.edu.au | Back-end |
-| Wenxu Guo | Developer | wenxu.guo1@student.unimelb.edu.au | Back-end |
-
-
-**Mentor:** Dr. Geoff Jenkins (geoffrey.jenkins@unimelb.edu.au)
-
-**Client:** Jim McKinlay 
 
 ## Project Board
 The project board in NOV team serves as a dynamic tool for managing and tracking the progress of tasks, recording sprint backlogs for each sprint(planned backlogs as well), and also ensuring the project remains on schedule and that all team members are aligned with the project's goals. By visualizing the workflow, from task assignment to completion, it allows the team to identify bottlenecks, prioritize tasks, and allocate resources effectively. It acts as a real-time dashboard that provides a clear overview of what tasks are in progress, which ones are pending, and what has been completed, fostering accountability and transparency within the team. By providing a centralized platform for project management, the project board not only streamlines the execution process but also ensures that the project stays on track towards its objectives.
