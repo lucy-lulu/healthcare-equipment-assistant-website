@@ -1,4 +1,4 @@
-# NOV-healthcare-equipment-assistant -- final project swen90017/18
+# NOV-healthcare-equipment-assistant 
 
 ## Project Background
 Clients of the NDIS (and perhaps the NDIA) can have trouble choosing the equipment they need, which best matches their particular disability and which the service is willing to pay for or sufficiently subsidise.
